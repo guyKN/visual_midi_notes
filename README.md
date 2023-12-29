@@ -1,3 +1,6 @@
+# Fork by Guy Knaan
+This fork makes visual midi display notes rather than midi pitches in the x-axis. You probably shouldn't use this yourself. 
+
 # Visual MIDI
 
 [![PyPI package](./docs/badge-pypi-website.svg)](https://pypi.org/project/Visual-MIDI/1.1.0/)
